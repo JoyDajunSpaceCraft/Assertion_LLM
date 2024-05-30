@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is dedicated to our research on enhancing the extraction of clinical information from English Electronic Health Records (EHR). We focus on assertion detection, a critical step in generating actionable clinical information, which involves categorizing medical entities based on their state such as 'Positive', 'Negative', 'Possible', 'Historical', 'Hypothetical', and 'Family' related conditions.
+This repository is dedicated to our research on enhancing clinical information extraction from English Electronic Health Records (EHR). We focus on assertion detection, a critical step in generating actionable clinical information. This involves categorizing medical entities based on their state, such as 'Positive', 'Negative', 'Possible', 'Historical', 'Hypothetical', and 'Family' related conditions. Our [Paper:Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning](https://arxiv.org/abs/2401.17602) was accepted in [ICHI 2024](https://ieeichi2024.github.io/call_for_papers.html).
 
 ## Challenge
 
