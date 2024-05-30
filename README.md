@@ -35,11 +35,14 @@ Instructions on how to use the models and scripts for assertion detection are pr
 
 If you use the resources provided in this repository, please cite:
 
-\```
-[Utilizing Large Language Models for Enhanced Assertion Detection in Clinical Texts]
-[Yuelyu Ji, Doumic Yu, Yanshan Wang]
-[Publication Information]
-\```
+```
+@article{ji2024assertion,
+  title={Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning},
+  author={Ji, Yuelyu and Yu, Zeshui and Wang, Yanshan},
+  journal={arXiv preprint arXiv:2401.17602},
+  year={2024}
+}
+```
 
 ## Acknowledgements
 
